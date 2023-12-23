@@ -24,8 +24,5 @@ To perform text mining on the biomedical dataset, follow these steps:
 ## Contributing
 Contributions to this project are welcome! Please fork the repository and submit a pull request with your proposed changes.
 
-## License
-This project is released under the MIT License. The dataset used is subject to its own licensing terms as provided on its Kaggle page.
-
 ## Acknowledgments
 Thanks to the Kaggle dataset authors and contributors for providing the data necessary for this project.
